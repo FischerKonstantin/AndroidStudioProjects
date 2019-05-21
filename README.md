@@ -1,1 +1,2 @@
-"# AndroidStudioProjects" 
+"# AndroidStudioProjects"
+Education app for Android
